@@ -36,9 +36,17 @@ For the second part, I created a simple React application and deployed it to Ren
 ```
 docker run -p 3000:3000 practical4-render
 ```
-![alt text](image.png)
+![alt text](assets/image3.png)
 
 #### 5. Finally, I deployed to Render by connecting my GitHub repository to Render's web service
+
+#### Input : 
+
+![alt text](assets/image5.png)
+
+#### Outcome : 
+![alt text](assets/image-1.png)
+
 
 ### Deployment Details
 1. Local Testing: I ran the app on my computer and it worked at http://localhost:3000
