@@ -56,6 +56,7 @@ docker run -p 3000:3000 practical4-render
 3. Container Setup: Inside the Docker container, the app runs on port 3000
 
 
+
 ### Local Development
 
 1. Install dependencies:
@@ -77,3 +78,4 @@ npm start
 - Render cloud platform
 - Alpine Linux
 
+### practical4-render : https://ss2025-dso101-02230307-1.onrender.com/
